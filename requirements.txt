@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 plotly
-gzip
+gzip==3.3
 shutil
